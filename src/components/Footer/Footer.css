@@ -1,0 +1,9 @@
+.footer {
+  padding-top: 15px;
+  text-align: center;
+}
+
+.textoFooter {
+  color: black !important;
+  font-size: small;
+}
